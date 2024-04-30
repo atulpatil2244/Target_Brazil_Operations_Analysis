@@ -8,17 +8,24 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 
 ___________________________________________________________________________________________________________
 
-# Dataset: https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb
+#### Dataset: https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb
 
 The data is available in 8 csv files:
 
 customers.csv
+
 sellers.csv
+
 order_items.csv
+
 geolocation.csv
+
 payments.csv
+
 reviews.csv
+
 orders.csv
+
 products.csv
 ___________________________________________________________________________________________________________
 
