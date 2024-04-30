@@ -8,7 +8,7 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 
 ___________________________________________________________________________________________________________
 
-Dataset: https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb
+# Dataset: https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb
 
 The data is available in 8 csv files:
 
@@ -22,11 +22,11 @@ orders.csv
 products.csv
 ___________________________________________________________________________________________________________
 
-The column description for these csv files is given below.
+## The column description for these csv files is given below.
 
 The customers.csv contain following features:
 
-Features
+### Features
 
 Description
 
@@ -52,7 +52,7 @@ State Code from where order is made (Eg. são paulo - SP)
 
 The sellers.csv contains following features:
 
-Features
+### Features
 
 Description
 
@@ -74,7 +74,7 @@ State Code (Eg. são paulo - SP)
 
 The order_items.csv contain following features:
 
-Features
+### Features
 
 Description
 
@@ -108,7 +108,7 @@ Price rate at which a product is delivered from one point to another
 
 The geolocations.csv contain following features:
 
-Features
+### Features
 
 Description
 
@@ -134,7 +134,7 @@ State
 
 The payments.csv contain following features:
 
-Features
+### Features
 
 Description
 
@@ -160,7 +160,7 @@ Total amount paid for the purchase order
 
 The orders.csv contain following features:
 
-Features
+### Features
 
 Description
 
@@ -194,7 +194,7 @@ Estimated delivery date of the products
 
 The reviews.csv contain following features:
 
-Features
+### Features
 
 Description
 
@@ -228,7 +228,7 @@ Timestamp of the review answered
 
 The products.csv contain following features:
 
-Features
+### Features
 
 Description
 
